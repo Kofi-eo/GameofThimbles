@@ -143,135 +143,65 @@ h3 {
 @media screen and (max-width: 320px) {
   h3 {
     font-size: 8em;
-    top: 0em;
-    margin-top: 0em;
-    color: #fff;
-    text-shadow: 3em 7em 3em #81838d;
   }
-
   .thimble_ball_position-0 {
-    background: url(Img/Ball.png) no-repeat center;
-    background-size: cover;
-    position: relative;
     left: 10.8em;
     top: 15.7em;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-    z-index: 0;
   }
 
   .thimble_ball_position-1 {
-    background: url(Img/Ball.png) no-repeat center;
-    background-size: cover;
-    position: relative;
-    left: 23.3em;
-    top: 17.5em;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-    z-index: 0;
   }
 
   .thimble_ball_position-2 {
-    background: url(Img/Ball.png) no-repeat center;
-    background-size: cover;
-    position: relative;
-    left: 35.6em;
-    top: 15.7em;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-    z-index: 0;
   }
 }
 
 @media screen and (min-width: 576px) {
   h3 {
     font-size: 8em;
-    top: 0em;
-    margin-top: 0em;
-    color: #fff;
-    text-shadow: 3em 7em 3em #81838d;
   }
   .thimble_ball_position-0 {
-    background: url(Img/Ball.png) no-repeat center;
-    background-size: cover;
-    position: relative;
     left: 10.8em;
     top: 15.7em;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-    z-index: 0;
   }
 
   .thimble_ball_position-1 {
-    background: url(Img/Ball.png) no-repeat center;
-    background-size: cover;
-    position: relative;
-    left: 23.3em;
-    top: 17.5em;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-    z-index: 0;
   }
 
   .thimble_ball_position-2 {
-    background: url(Img/Ball.png) no-repeat center;
-    background-size: cover;
-    position: relative;
-    left: 35.6em;
-    top: 15.7em;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-    z-index: 0;
   }
 }
 
 @media screen and (min-width: 767px) {
   h3 {
     font-size: 8em;
-    top: 0em;
-    margin-top: 0em;
-    color: #fff;
-    text-shadow: 3em 7em 3em #81838d;
   }
   .thimble_ball_position-0 {
-    background: url(Img/Ball.png) no-repeat center;
-    background-size: cover;
-    position: relative;
     left: 10.8em;
     top: 15.7em;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-    z-index: 0;
   }
 
   .thimble_ball_position-1 {
-    background: url(Img/Ball.png) no-repeat center;
-    background-size: cover;
-    position: relative;
-    left: 23.3em;
-    top: 17.5em;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-    z-index: 0;
   }
 
   .thimble_ball_position-2 {
-    background: url(Img/Ball.png) no-repeat center;
-    background-size: cover;
-    position: relative;
-    left: 35.6em;
-    top: 15.7em;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-    z-index: 0;
   }
 }
