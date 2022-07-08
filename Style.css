@@ -131,77 +131,11 @@ h3 {
   cursor: pointer;
   padding: 0.75em 0.625em 0.625em;
   min-width: 15.875em;
-  margin: 1em 0em 0em;
+  margin: 0.9375em 0em 0em;
   border: 0.125em solid #567321;
   border-radius: 0.4375em;
   background: linear-gradient(180deg, #d3d3c3, #ecf3de);
   text-align: center;
   color: rgb(0, 0, 0);
   font-size: large;
-}
-
-@media screen and (max-width: 320px) {
-  h3 {
-    font-size: 8em;
-  }
-  .thimble_ball_position-0 {
-    left: 10.8em;
-    top: 15.7em;
-    width: 2em;
-    height: 2em;
-  }
-
-  .thimble_ball_position-1 {
-    width: 2em;
-    height: 2em;
-  }
-
-  .thimble_ball_position-2 {
-    width: 2em;
-    height: 2em;
-  }
-}
-
-@media screen and (min-width: 576px) {
-  h3 {
-    font-size: 8em;
-  }
-  .thimble_ball_position-0 {
-    left: 10.8em;
-    top: 15.7em;
-    width: 2em;
-    height: 2em;
-  }
-
-  .thimble_ball_position-1 {
-    width: 2em;
-    height: 2em;
-  }
-
-  .thimble_ball_position-2 {
-    width: 2em;
-    height: 2em;
-  }
-}
-
-@media screen and (min-width: 767px) {
-  h3 {
-    font-size: 8em;
-  }
-  .thimble_ball_position-0 {
-    left: 10.8em;
-    top: 15.7em;
-    width: 2em;
-    height: 2em;
-  }
-
-  .thimble_ball_position-1 {
-    width: 2em;
-    height: 2em;
-  }
-
-  .thimble_ball_position-2 {
-    width: 2em;
-    height: 2em;
-  }
 }
